@@ -1,21 +1,10 @@
-[{
-    "name": "Apple",
-    "id": 6,
-    "calories": 52
-   },
- {   
-    "name": "Banana",
-    "id": 1,
-     "calories": 92    
-   }, 
- {
-    
-    "name": "Blueberry",
-    "id": 33,
-     "calories": 29
-}, 
-   {
-    "name": "Cherry",
-     "id": 34,
-     "calories": 50
-}]
+[
+  {
+    "ingredient": "wheat flour organic",
+    "calories": 2
+  },
+  {
+    "ingredient": "broccoli raw",
+    "calories": 2
+  }
+]
